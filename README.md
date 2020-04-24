@@ -1,4 +1,5 @@
-<p align="center"><img src="/PGlogo.png"></img></p>
+<p align="center"><img src="/PGlogo.png" height="96" width="96"> </img></p>
+
 # Interpretable Clustering Procter & Gamble
 
 ### Final project for the course Driving Business through Advanced Analytics
