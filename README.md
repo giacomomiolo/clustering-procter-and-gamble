@@ -3,7 +3,7 @@
 # Interpretable Clustering Procter & Gamble
 
 ### Final project for the course Driving Business through Advanced Analytics
-### Professor: Filippo Passerini, CIO and head of global business services at P&G
+### <b>Professor</b>: Filippo Passerini, CIO and head of global business services at P&G
 
 This project focuses on the entire process of decision making, from the framing of the problem till the presentation of results to the audience.
 The key thought that guided the choice of algorithms and the entire analysis was **interpretability**.
