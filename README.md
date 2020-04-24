@@ -1,4 +1,4 @@
-# Interpretable Clustering Procter & Gamble
+<p align="center"># Interpretable Clustering Procter & Gamble</p>
 
 ### Final project for the course Driving Business through Advanced Analytics
 ### Professor: Filippo Passerini, CIO and head of global business services at P&G
